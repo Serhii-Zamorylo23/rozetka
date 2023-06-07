@@ -1,0 +1,45 @@
+.Block{
+    background: #221F1F;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    &_cont{
+        height: 45px;
+        background: darkcyan;
+        margin: 0 auto;
+        width: 1432px;
+        align-items: center;
+        display: flex;
+        &_settings{
+            width: 40px;
+            height: 40px;
+            background: gold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            &_svg{
+                width: 24px;
+                height: 24px;
+            }
+        }
+        &_logo{
+            width: 240px;
+            height: 100%;
+            margin-left: 10px;
+        }
+        &_container-catalog{
+            width: 126.68px;
+            height: 100%;
+            border-radius: 8px;
+            background: #ffffff20;
+            margin-left: 28px;
+            padding: 0 16px 0 16px;
+            display: flex;
+            align-items: center;
+            &_svg{
+                width: 24px;
+                height: 24px;
+            }
+        }
+    }
+}

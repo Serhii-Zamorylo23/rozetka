@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="settings" viewBox="0 0 24 24">
+<path d="M6 18H18V15H6V18ZM6 13.512H18V10.512H6V13.512ZM6 9H18V6H6V9Z" fill="white"/>
+</symbol>
+<symbol id="svgcatalog" viewBox="0 0 24 24">
+<rect x="1" y="14.6797" width="8.39503" height="8.11802" rx="2" stroke="white" stroke-width="2"/>
+<rect x="13" y="14.882" width="8.39503" height="8.11802" rx="2" stroke="white" stroke-width="2"/>
+<rect x="1" y="2.87534" width="8.39503" height="8.11802" rx="2" stroke="white" stroke-width="2"/>
+<rect x="1.3869" y="-0.352093" width="8.19117" height="8.32333" rx="2" transform="matrix(0.521534 -0.85323 0.865368 0.501137 10.7198 9.70314)" stroke="white" stroke-width="2"/>
+</symbol>
+</svg>
