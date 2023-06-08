@@ -40,6 +40,25 @@
                 width: 24px;
                 height: 24px;
             }
+            &_title{
+                color: white;
+                @include Inter(30px);
+            }
         }
     }
+}
+@mixin Inter ($size){
+    font-family: 'Inter', sans-serif;
+    font-weight:400;
+    font-size:$size;
+}
+@mixin Poppins ($size){
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+    font-size:$size;
+}
+@mixin Roboto ($size){
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+    font-size:$size;
 }
